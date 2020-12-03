@@ -1,0 +1,76 @@
+
+
+*{padding: 0px; margin: 0px;}
+h1{
+	text-align: center;
+	background-color: yellow;
+}
+h2{
+	text-align: center;
+}
+.header{
+
+	min-height: 100px;
+	background-color: yellow;
+}
+.wrapper{
+	overflow: hidden;
+	border: 10px solid teal;
+
+}
+.blog_wrap{
+	background-color: green;
+}
+.blog{
+	float: left;
+	width: 70%;
+	min-height: 150px;
+	background-color: green;
+}
+.contact{
+	float: right;
+	width: 30%;
+	min-height: 150px;
+	background-color: blue;
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+	width: 100%;
+	margin-bottom: 40px;
+}
+.single{
+	min-height: 150px;
+	background-color: green;
+	border: 5px solid blue;
+	width: 32.1%;
+	float: left;
+}
+.footer1{
+	min-height: 100px;
+	background-color: blue;
+}
+h2{
+	padding: 10px;
+}
+.sec_footer_bg{
+	overflow: hidden;
+	background-color: yellow;
+}
+.single1{
+	width: 25%;
+	min-height:200px;
+	float: left;
+}
+.yellow{
+	background-color: yellow;
+}
+.blue{
+	background-color: blue;
+}
+.teal{
+	background-color: grey;
+}
+.red{
+	background-color: red;
+}
